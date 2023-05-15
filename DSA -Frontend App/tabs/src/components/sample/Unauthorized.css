@@ -1,0 +1,17 @@
+.Unauthorized{
+    text-align: center;
+    background-color: gainsboro;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px;
+
+}
+.Unauthorized > h1{
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+}
+.fbColor{
+    color: red;
+}

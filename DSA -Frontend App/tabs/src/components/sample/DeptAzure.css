@@ -1,0 +1,23 @@
+.DepMaindiv{
+    display: flex;
+}
+.Cards{
+margin-right: 1em;
+}
+.Charts{
+margin-top: 3.2em;
+}
+@media(max-width:2600px){
+    .DepMaindiv{
+    display: block;
+    }
+    .cardbody{
+        margin-top: 10px;
+        text-align: center;
+        top: 50%;
+        left: 50%;
+    }
+    .Charts-fluentUI{
+        margin-top: 3.2em;
+    }
+}

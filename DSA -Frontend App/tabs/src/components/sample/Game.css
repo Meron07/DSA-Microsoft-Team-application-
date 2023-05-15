@@ -1,0 +1,18 @@
+img{
+    width: 80%;
+    height:auto;
+    display:grid;
+    align-self: center;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    MARGIN:auto;
+}
+.game{
+    display: block;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    align-content: center;
+
+}

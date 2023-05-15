@@ -1,0 +1,20 @@
+.Maindiv{
+    display: flex;
+}
+.Cards{
+margin-right: 1em;
+}
+.Charts-user{
+margin-top: 5.8em;
+}
+
+
+@media(max-width: 2600px){
+    .Maindiv{
+        display: block; 
+
+    }
+    .Charts-user{
+        margin-top:2em;
+    }
+}
